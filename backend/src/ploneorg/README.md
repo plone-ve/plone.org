@@ -6,7 +6,12 @@ The main destination for Plone
 
 ### Content Types
 
-- TBD
+- A Foundation sponsor.
+
+- Plone Foundation Member.
+
+- A Plone release.
+
 
 ### Initial content
 
