@@ -1,0 +1,203 @@
+# Translation of ploneorg.pot to Spanish
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plone.org\n"
+"POT-Creation-Date: 2023-01-13 16:28+0000\n"
+"PO-Revision-Date: 2023-05-11 08:27-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language: es\n"
+"Language-Team: ES <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language-Code: es\n"
+"Language-Name: Español\n"
+"Preferred-Encodings: utf-8\n"
+"Domain: ploneorg\n"
+"X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: ploneorg/profiles/default/types/FoundationMember.xml
+msgid "A member of the Plone Foundation."
+msgstr "Un miembro de la Fundación Plone."
+
+#: ploneorg/content/member.py:29
+msgid "About you"
+msgstr "Acerca de ti"
+
+#: ploneorg/content/member.py:65
+msgid "Address"
+msgstr "Dirección"
+
+#: ploneorg/content/plonerelease.py:57
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: ploneorg/content/member.py:66
+msgid "City"
+msgstr "Ciudad"
+
+#: ploneorg/content/member.py:40
+msgid "Contact Information"
+msgstr "Información del contacto"
+
+#: ploneorg/content/member.py:81
+msgid "Contributions"
+msgstr "Contribuciones"
+
+#: ploneorg/content/member.py:73
+msgid "Country"
+msgstr "País"
+
+#: ploneorg/content/member.py:82
+msgid "Describe your contributions to the Plone community."
+msgstr "Describa sus contribuciones a la comunidad de Plone."
+
+#: ploneorg/content/plonerelease.py:25
+msgid "Description"
+msgstr "Descripción"
+
+#: ploneorg/content/member.py:60
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+#: ploneorg/content/foundationsponsor.py:131
+msgid "Enter a http:// or https:// web address"
+msgstr "Ingrese una http:// o https:// dirección web"
+
+#: ploneorg/content/plonerelease.py:30
+msgid "File size"
+msgstr "Tamaño del archivo"
+
+#: ploneorg/content/plonerelease.py:71
+msgid "Files"
+msgstr "Archivos"
+
+#: ploneorg/profiles/default/types/FoundationMember.xml
+msgid "Foundation Member"
+msgstr "Miembro de la Fundación"
+
+#: ploneorg/content/member.py:87
+msgid "Github username"
+msgstr "Nombre de usuario GitHub"
+
+#: ploneorg/profiles.zcml:22
+msgid "Initial content for our website."
+msgstr "Contenido inicial para nuestro sitio web."
+
+#: ploneorg/content/member.py:93
+msgid "Linkedin profile"
+msgstr "Perfil de LinkedIn"
+
+#: ploneorg/content/foundationsponsor.py:107
+msgid "Logo"
+msgstr "Logo"
+
+#: ploneorg/content/member.py:57
+msgid "Name"
+msgstr "Nombre"
+
+#: ploneorg/content/foundationsponsor.py:120
+msgid "Number of people in your organization. It's fine to estimate."
+msgstr "Número de personas en su organización. Está bien para estimar."
+
+#: ploneorg/content/foundationsponsor.py:119
+msgid "Organization size"
+msgstr "Tamaño de la Organización"
+
+#: ploneorg/content/plonerelease.py:27
+msgid "Platform"
+msgstr "Plataforma"
+
+#: ploneorg/profiles.zcml:22
+msgid "Plone.org Site: Initial content"
+msgstr "Sitio Plone.org: Contenido inicial"
+
+#: ploneorg/profiles.zcml:13
+msgid "Plone.org Site: Install"
+msgstr "Sitio Plone.org: Instalar"
+
+#: ploneorg/profiles.zcml:30
+msgid "Plone.org Site: Local pas.plugins.authomatic"
+msgstr "Plone.org Site: Local pas.plugins.authomatic"
+
+#: ploneorg/profiles.zcml:38
+msgid "Plone.org Site: Uninstall"
+msgstr "Sitio Plone.org: Desinstalar"
+
+#: ploneorg/profiles.zcml:13
+msgid "Policy package to install our site"
+msgstr "Paquete de políticas para instalar nuestro sitio"
+
+#: ploneorg/content/member.py:70
+msgid "Postal code"
+msgstr "Código postal"
+
+#: ploneorg/content/plonerelease.py:42
+msgid "Release date"
+msgstr "Fecha de lanzamiento"
+
+#: ploneorg/content/plonerelease.py:45
+msgid "Release notes"
+msgstr "Notas de lanzamiento"
+
+#: ploneorg/content/member.py:52
+msgid "Social Networks"
+msgstr "Redes sociales"
+
+#: ploneorg/profiles/default/registry/plone.app.querystring.xml
+msgid "Sponsors"
+msgstr "Patrocinadores"
+
+#: ploneorg/content/member.py:67
+msgid "State"
+msgstr "Estado"
+
+#: ploneorg/content/member.py:90
+msgid "Twitter username"
+msgstr "Cuenta de Twitter"
+
+#: ploneorg/content/plonerelease.py:29
+msgid "URL"
+msgstr "Dirección URL"
+
+#: ploneorg/profiles.zcml:30
+msgid "Uninstall Local pas.plugins.authomatic."
+msgstr "Desinstalar Local pas.plugins.authomatic."
+
+#: ploneorg/profiles.zcml:38
+msgid "Uninstall Plone.org Site setup."
+msgstr "Desinstale la configuración del sitio Plone.org."
+
+#: ploneorg/content/plonerelease.py:36
+msgid "Version"
+msgstr "Versión"
+
+#: ploneorg/content/foundationsponsor.py:217
+msgid "What is your connection to Plone? How is Plone used by your organization?"
+msgstr "¿Cuál es su conexión con Plone? ¿Cómo utiliza Plone su organización?"
+
+#. Default: "Categorization by type of Sponsorship."
+#: ploneorg/profiles/default/registry/plone.app.querystring.xml
+msgid "description_sponsorship_type"
+msgstr "Categorización por tipo de Patrocinio."
+
+#: ploneorg/content/member.py:95
+msgid "i.e.: https://www.linkedin.com/in/plone/"
+msgstr "e.j.: https://www.linkedin.com/in/plone/"
+
+#: ploneorg/content/member.py:88
+msgid "i.e.: plone"
+msgstr "e.j.: plone"
+
+#. Default: "Provider"
+#: ploneorg/profiles/default/registry/plone.app.querystring.xml
+msgid "label_is_provider"
+msgstr "Proveedor"
+
+#. Default: "Type of Sponsorship"
+#: ploneorg/profiles/default/registry/plone.app.querystring.xml
+msgid "label_sponsorship_type"
+msgstr "Tipo de patrocinio"
